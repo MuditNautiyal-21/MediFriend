@@ -1,6 +1,14 @@
 # MediFriend
 
-**AI Powered Medical Billing Assistant and Patient Advocacy Platform**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+> **Winner: AI For Good Hackathon**
+>
+> *An intelligent patient advocacy platform demystifying medical billing through Agentic AI and OCR.*
 
 MediFriend is an intelligent healthcare financial assistant designed to demystify medical bills. Leveraging Google Gemini and OCR technology, it ingests unstructured medical invoices, detects billing errors (such as CPT and ICD mismatches), and automates the generation of dispute letters to empower patients to navigate the complex US healthcare system.
 
