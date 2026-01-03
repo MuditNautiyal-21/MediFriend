@@ -49,13 +49,13 @@ Recognized for the innovative use of Agentic AI in solving real world healthcare
    ```
 1. **Install Dependencies**
    ```bash
-   git clone [https://github.com/MuditNautiyal-21/MediFriend.git](https://github.com/MuditNautiyal-21/MediFriend.git)
+   npm install
    ```
 1. **Set up Environment Variables Create a .env file in the root directory and add your Google Gemini API key**
    ```bash
-   git clone [https://github.com/MuditNautiyal-21/MediFriend.git](https://github.com/MuditNautiyal-21/MediFriend.git)
+   GEMINI_API_KEY=your_key_here
    ```
 1. **Run the Development Server**
    ```bash
-   git clone [https://github.com/MuditNautiyal-21/MediFriend.git](https://github.com/MuditNautiyal-21/MediFriend.git)
+   npm run dev
    ```
