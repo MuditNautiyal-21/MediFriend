@@ -1,0 +1,5 @@
+{
+  "name": "MediFriend - AI Medical Bill Assistant",
+  "description": "An AI-powered tool to help you understand, analyze, and manage your medical bills. Upload a bill to get a summary, explanation of codes, and identification of potential errors.",
+  "requestFramePermissions": []
+}
