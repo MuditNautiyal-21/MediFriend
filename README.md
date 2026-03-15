@@ -196,7 +196,7 @@ Built as part of a **3-person team** at the **AI For Good Hackathon** (Universit
 
 ## Achievements
 
-**🏆 Winner — AI For Good Hackathon, University at Buffalo**
+**🏆 Winner - AI For Good Hackathon, University at Buffalo**
 
 Recognized for the innovative use of Agentic AI in solving real-world healthcare transparency issues.
 
